@@ -1,0 +1,53 @@
+1.Goalkeeper:
+The goalkeeper (abbreviated as keeper or goalie) is a position in association football. It is the most specialised position in the sport. The goalkeeper's main role is to stop the opposing team from scoring (putting the ball over the goal-line of the goal). This is accomplished by having the goalkeeper move into the trajectory of the ball to either catch it or direct it further from the vicinity of the goal line. Within the penalty area goalkeepers are allowed to use their hands, giving them (outside throw-ins) the sole rights on the field to handle the ball. The goalkeeper is indicated by wearing a different coloured kit from their teammates and opposition.
+
+The back-pass rule is a rule that disallows handling passes back to keepers from teammates in most cases. Goalkeepers usually perform goal kicks, and also give commands to their defence during corner kicks, direct and indirect free kicks, and marking. Goalkeepers play an important role in directing on field strategy as they have an unrestricted view of the entire pitch, giving them a unique perspective on play development.
+
+The goalkeeper is the only mandatory position of a team. If they are injured or sent off, another player must take their place. In order to replace a goalkeeper who is sent off, a team usually brings on a substitute keeper in place of an outfield player and play the rest of the match with nine outfield players. If a team does not have a substitute goalkeeper, or they have already used all of their permitted substitutions for the match, an outfield player has to take the dismissed goalkeeper's place and wear the goalkeeper shirt.
+
+Because the position requires different skills from the outfielders, goalkeepers train separately from their teammates and often work with a goalkeeping coach to develop their play. While outfielders typically must be in good cardiovascular shape to play up to 90 minutes in a match, a goalkeeper must be able to move quick and have fast feet for little bursts. During a match, goalkeepers may get a lot of action, usually in brief intervals, until their teammates can clear the ball out of the zone. During practice, goalkeepers focus heavily on footwork and being able to get up quickly after a save is made. It is important that a goalkeeper is able to get set, meaning feet shoulder width apart and on their toes, before the next shot comes their way, so they are able to react and make the save.
+
+The squad number for a first-choice goalkeeper is commonly number 1, although they may wear any number between 1 and 99.
+
+Different types of goalkeepers are:
+	1.1.Line Keeper:This keeper has only one goal, keeping a clean sheet. He excels at shot stopping, eliminating threats from crosses and quickly recovers after blocking a shot. He rules the 6 yard box. His weaknesses can be ball skills, covering the defensive line and reading the game. When in possession, he plays a simple passing game, reducing his on-ball time to a minimum.
+	Players with this role: Jan Oblak (Atlético Madrid), David de Gea (Manchester United), Neto (Valencia CF), Jeroen Zoet (PSV Eindhoven).
+
+	1.2.Sweeper Keeper:This type of keeper functions as a sweeper behind the defensive line and therefore positions himself higher up the pitch. In the defensive phase he sweeps up through balls and excels in one on one situations.
+	Players with this role: Kasper Schmeichel (Leicester City), Loris Karius (Besiktas JK) , Emil Audero (UC Sampdoria), Marko Dmitrovic (SD Eibar).
+
+	1.3.Ball-Playing Keeper:This type of keeper has good on the ball skills and can provide his teammates with high accuracy passes, even reaching the wingers when pressure is intense. In the build-up he can be used to outnumber the opposing offensive line when his defence is put under pressure.
+	Players with this role: Ederson (Manchester City), Marc-André ter Stegen (FC Barcelona), Kepa (Chelsea FC), André Onana (Ajax Amsterdam).
+
+2.Defender:In the sport of football, a defender is an outfield position whose primary role is to stop attacks during the game and prevent the opposition from scoring.
+
+Centre-backs are usually positioned in pairs, with one full-back on either side to their left and right, but can may be played in threes with or without full-backs.
+
+Defenders fall into four main categories: centre-back and full-back. The centre-back and full-back positions are essential in most modern formations. The sweeper and wing-back roles are more specialised for certain formations dependent on the manager’s style of play and tactics. Centre-backs are usually tall and positioned for their ability to win duels in the air.
+
+Different types of Defenders are:
+	2.1.Centre-back:The centre-back (also known as a central defender or centre-half, as the modern role of the centre-back arose from the centre-half position) defends in the area directly in front of the goal and tries to prevent opposing players, particularly centre-forwards, from scoring. Centre-backs accomplish this by blocking shots, tackling, intercepting passes, contesting headers and marking forwards to discourage the opposing team from passing to them. In the modern game, most teams employ two or three centre-backs in front of the goalkeeper. The 4–2–3–1, 4–3–3, and 4–4–2 formations all use two centre-backs.
+	
+	The common 4–4–2 formation uses two centre-backs.
+	In possession of the ball, centre-backs are generally expected to make long and pinpoint passes to their teammates, or to kick unaimed long balls down the field. For example, a clearance is a long unaimed kick intended to move the ball as far as possible from the defender's goal. Due to the many skills centre-backs are required to possess in the modern game, many successful contemporary central-defensive partnerships have involved pairing a more physical defender with a defender who is quicker, more comfortable in possession and capable of playing the ball out from the back; examples of such pairings have included David Luiz, Gary Cahill, John Terry and Ricardo Carvalho with Chelsea, Sergio Ramos, Raphaël Varane or Pepe with Real Madrid, Diego Godín and José María Giménez with Atlético Madrid and Uruguay, Nemanja Vidić and Rio Ferdinand with Manchester United, or Giorgio Chiellini, Leonardo Bonucci, Andrea Barzagli and Medhi Benatia with Juventus.
+
+	Under normal circumstances, centre-backs are unlikely to score goals. However, when their team takes a corner kick or other set pieces, centre-backs may move forward to the opponents' penalty area; if the ball is passed in the air towards a crowd of players near the goal, then the heading ability of a centre-back is useful when trying to score. In this case, other defenders or midfielders will temporarily move into the centre-back positions.
+
+	There are two main defensive strategies used by defensive lines: the zonal defence, where each centre-back covers a specific area of the pitch; and man-to-man marking, where each centre-back has the job of tracking a particular opposition player. In the now obsolete man–to–man marking systems such as catenaccio, as well as the zona mista strategy that later arose from it, there were often at least two types of centre-backs who played alongside one another: at least one man–to–man marking centre-back, known as the stopper, and a free defender, which was usually known as the sweeper, or libero, whose tasks included sweeping up balls for teammates and also initiating attacks.
+	
+	Different types of centre backs:
+		2.1.1.Ball Playing Defender:The Ball Playing Defender is a defender with excellent passing, on the ball and dribbling skills, combined with vision in the build-up. He can provide his midfielders with short fast passes opening up play and has a pin-point long ball to cut through the opposing defensive line when needed.
+
+		2.1.2.Ball Winning Defender:This type of defender excels in intercepting passes and through balls due to his excellent positioning and reading of the game. He has good acceleration and tackling skills and provides his defensive line with cover, especially useful when playing with a high defensive line. This defender tends to be a little smaller in posture and can therefore be somewhat weaker in aerial duels.
+
+		2.1.3.Stopper:This type of defender is mainly used to mark and get into duels with the opposing striker. Second to that he eliminates the aerial threat from long balls. Most of these defenders exceed the height of 1.90m and are physically strong. Due to their posture these defenders tend to be slow on the first meters and can appear somewhat clumsy.
+		
+	2.2.Full-backs:A fullback is a defender on a soccer team who starts a game positioned beside the touchline of the field. The role of the fullback is primarily to prevent the opposition from creating a goal-scoring opportunity. However, a fullback is also responsible for supporting their team’s offensive players.
+
+	Different types of Full-backs:
+		2.2.1.Wing-back:The wing-back is a variation on the full-back, but with a heavier emphasis on attack. Wing-backs are typically some of the fastest players on a team, when employed. Wing-backs are typically used in a formation with 3 centre-backs and are sometimes classified as midfielders instead of defenders. They can, however, be used in formations with only two centre-backs, such as in Jürgen Klopp's 4–3–3 system that he uses at Liverpool, in which the wing-backs play high up the field to compensate for a lack of width in attack. In the evolution of the modern game, wing-backs are the combination of wingers and full-backs. As such, this position is one of the most physically demanding in modern football. Successful use of wing-backs is one of the main prerequisites for the 3–4–3, 3–5–2 and 5–3–2 formations to function effectively.
+
+		Wing-backs are often more adventurous than full-backs and are expected to provide width, especially in teams without wingers. A wing-back needs to be of exceptional stamina, be able to provide crosses upfield and defend effectively against opponents' attacks down the flanks. A defensive midfielder may be fielded to cover the advances of wing-backs. It can also be occupied by wingers and side midfielders in a three centre-back formation, as seen by ex-Chelsea and ex-Inter Milan, and current Tottenham Hotspur manager Antonio Conte.
+
+		Examples of players who could and did play as wing-backs were AC Milan teammates Cafu and Serginho, Barcelona player Dani Alves, Roberto Carlos of Real Madrid's Galácticos era, former River Plate's defender Juan Pablo Sorín, World Cup winning German Andreas Brehme, Parma's legend Antonio Benarrivo, Angelo Di Livio of Juventus and Italy and former Corinthians, Arsenal & Barcelona star Sylvinho.
+

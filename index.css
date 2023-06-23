@@ -1,0 +1,53 @@
+#header{
+    text-align: center;
+    font-size: 130%;
+    background-color: rgb(0, 163, 204);
+    background-clip: border-box;
+    margin-top: 0%;
+    padding: 1%;
+}
+
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+    background:linear-gradient(to bottom,rgb(204, 255, 239), rgb(255, 230, 255), rgb(255, 229, 204)) ;
+}
+
+.img{
+    float: right;
+    width: 45%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.content{
+    width: 50%;
+    font-size: 100%;
+    border-right: 5px solid black;
+}
+
+.div{
+    padding-right: 5%;
+    border: 5px solid black;
+}
+
+h2{
+    font-size: 300%;
+    background:linear-gradient(to right, rgb(0, 184, 230), rgba(0, 184, 230, 0)) ;
+}
+
+h3{
+    font-size: 200%;
+    background:linear-gradient(to right, rgb(77, 219, 255), rgba(77, 219, 255, 0));
+}
+
+h4{
+    font-size: 150%;
+    background:linear-gradient(to right, rgb(179, 240, 255), rgba(179, 240, 255,0));
+}
+
+p{
+    font-size: 120%;
+    font-family:Candara;
+    font-weight: 1000;
+}
